@@ -40,10 +40,10 @@
 
 *Build: a small CLI tool, pure PHP.*
 
-- [ ] Variables, types, strings, numbers
-- [ ] Arrays (indexed + associative) and array functions
-- [ ] Conditionals and loops
-- [ ] Functions, arguments, return types
+- [x] Variables, types, strings, numbers
+- [x] Arrays (indexed + associative) and array functions
+- [x] Conditionals and loops
+- [x] Functions, arguments, return types
 - [ ] Classes and objects
 - [ ] Properties, methods, visibility (public/private/protected)
 - [ ] Constructors and `$this`
