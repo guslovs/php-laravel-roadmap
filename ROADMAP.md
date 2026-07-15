@@ -44,11 +44,11 @@
 - [x] Arrays (indexed + associative) and array functions
 - [x] Conditionals and loops
 - [x] Functions, arguments, return types
-- [ ] Classes and objects
-- [ ] Properties, methods, visibility (public/private/protected)
-- [ ] Constructors and `$this`
-- [ ] Interfaces and abstract classes
-- [ ] Traits
+- [x] Classes and objects
+- [x] Properties, methods, visibility (public/private/protected)
+- [x] Constructors and `$this`
+- [x] Interfaces and abstract classes
+- [x] Traits
 - [ ] Namespaces + Composer autoloading
 - [ ] Error handling (try/catch, exceptions)
 - [ ] **Mini-project:** build + commit a small CLI tool

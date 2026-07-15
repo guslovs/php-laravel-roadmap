@@ -1,5 +1,9 @@
-this line is outside php. it just gets printed as is
-<?php 
-echo "But this line is code that runs\n";
-?>
-and we're back outside printed as is
+<?php
+
+declare(strict_types=1);
+
+function greet(string $name): string {
+    return "Hello, $name";
+}
+
+echo greet(19);
