@@ -51,7 +51,7 @@
 - [x] Traits
 - [x] Namespaces + Composer autoloading
 - [x] Error handling (try/catch, exceptions)
-- [ ] **Mini-project:** build + commit a small CLI tool
+- [x] **Mini-project:** build + commit a small CLI tool
 
 **Phase done when:** your CLI tool works and you can explain every line.
 
