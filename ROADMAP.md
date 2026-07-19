@@ -49,8 +49,8 @@
 - [x] Constructors and `$this`
 - [x] Interfaces and abstract classes
 - [x] Traits
-- [ ] Namespaces + Composer autoloading
-- [ ] Error handling (try/catch, exceptions)
+- [x] Namespaces + Composer autoloading
+- [x] Error handling (try/catch, exceptions)
 - [ ] **Mini-project:** build + commit a small CLI tool
 
 **Phase done when:** your CLI tool works and you can explain every line.
